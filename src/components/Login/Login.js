@@ -129,4 +129,3 @@ if(email && password &&  auth){
 export default Login;
 
 
-<h3>hello git hub</h3>
